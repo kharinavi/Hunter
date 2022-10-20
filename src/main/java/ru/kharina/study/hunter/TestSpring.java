@@ -7,7 +7,7 @@ public class TestSpring {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
                 "applicationContext.xml"
         );
-        Goose gooseBean = context.getBean("GooseBean", Goose.class);
+        /*Goose gooseBean = context.getBean("GooseBean", Goose.class);
         Goat goatBean = context.getBean("GoatBean", Goat.class);
         Frog frogBean = context.getBean("FrogBean", Frog.class);
 
@@ -16,7 +16,10 @@ public class TestSpring {
         hunter.setCurrentAnimal(gooseBean);
         hunter.killAnimal();
         hunter.setCurrentAnimal(frogBean);
-        hunter.killAnimal();
+        hunter.killAnimal();*/
+
+        Hunter hunterBean = context.getBean("hunterBean", Hunter.class);
+        hunterBean.killAnimals();
 
         context.close();
     }

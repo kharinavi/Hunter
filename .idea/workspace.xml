@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08ba11e2-6c1b-450f-8a10-2f3ce4ecd579" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/Goose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/Hunter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/Hunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/Hunter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hunter/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666282216026</updated>
-      <workItem from="1666282217501" duration="4353000" />
+      <workItem from="1666282217501" duration="7200000" />
     </task>
     <servers />
   </component>
