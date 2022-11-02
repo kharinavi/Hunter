@@ -17,7 +17,8 @@
           class="ru.kharina.study.hunter.Frog">
     </bean>
     <bean id="hunterBean"
-          class="ru.kharina.study.hunter.Hunter">
+          class="ru.kharina.study.hunter.Hunter"
+        factory-method="getHunter">
         <property name="animalList">
             <list>
                 <ref bean="FrogBean"/>

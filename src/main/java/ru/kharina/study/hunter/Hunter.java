@@ -7,11 +7,15 @@ public class Hunter {
     private Animal currentAnimal;
     private List<Animal> animalList = new ArrayList<>();
 
-    public Hunter(Animal currentAnimal) {
+    /*public Hunter(Animal currentAnimal) {
         this.currentAnimal = currentAnimal;
+    }*/
+
+    private Hunter() {
     }
 
-    public Hunter() {
+    public static Hunter getHunter(){
+        return new Hunter();
     }
 
     public void setCurrentAnimal(Animal animal){
